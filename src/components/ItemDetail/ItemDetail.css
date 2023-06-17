@@ -1,0 +1,23 @@
+.item-detail-cont{
+   
+    text-align: center;
+    border: 2px solid orange;
+}
+
+img{
+    width: 20vw;
+    border-radius: 6px;
+}
+
+.button-link {
+    font-family: 'Helvetica', sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 10px 20px;
+    margin: 20px;
+    cursor: pointer;
+  }
+
+ 
